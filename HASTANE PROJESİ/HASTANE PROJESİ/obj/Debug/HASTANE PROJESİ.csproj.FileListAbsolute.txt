@@ -1,0 +1,23 @@
+C:\Users\Emrullah\Desktop\HASTANE PROJESİ\HASTANE PROJESİ\bin\Debug\HASTANE PROJESİ.exe.config
+C:\Users\Emrullah\Desktop\HASTANE PROJESİ\HASTANE PROJESİ\bin\Debug\HASTANE PROJESİ.exe
+C:\Users\Emrullah\Desktop\HASTANE PROJESİ\HASTANE PROJESİ\bin\Debug\HASTANE PROJESİ.pdb
+C:\Users\Emrullah\Desktop\HASTANE PROJESİ\HASTANE PROJESİ\obj\Debug\HASTANE_PROJESİ.Girisler.resources
+C:\Users\Emrullah\Desktop\HASTANE PROJESİ\HASTANE PROJESİ\obj\Debug\HASTANE_PROJESİ.Properties.Resources.resources
+C:\Users\Emrullah\Desktop\HASTANE PROJESİ\HASTANE PROJESİ\obj\Debug\HASTANE PROJESİ.csproj.GenerateResource.Cache
+C:\Users\Emrullah\Desktop\HASTANE PROJESİ\HASTANE PROJESİ\obj\Debug\HASTANE PROJESİ.exe
+C:\Users\Emrullah\Desktop\HASTANE PROJESİ\HASTANE PROJESİ\obj\Debug\HASTANE PROJESİ.pdb
+C:\Users\Emrullah\Desktop\HASTANE PROJESİ\HASTANE PROJESİ\obj\Debug\HASTANE_PROJESİ.HastaGiris.resources
+C:\Users\Emrullah\Desktop\HASTANE PROJESİ\HASTANE PROJESİ\obj\Debug\HASTANE_PROJESİ.BilgileriDüzenle.resources
+C:\Users\Emrullah\Desktop\HASTANE PROJESİ\HASTANE PROJESİ\obj\Debug\HASTANE_PROJESİ.HastaDetay.resources
+C:\Users\Emrullah\Desktop\HASTANE PROJESİ\HASTANE PROJESİ\obj\Debug\HASTANE_PROJESİ.DoktorDetay.resources
+C:\Users\Emrullah\Desktop\HASTANE PROJESİ\HASTANE PROJESİ\obj\Debug\HASTANE_PROJESİ.DoktorGiris.resources
+C:\Users\Emrullah\Desktop\HASTANE PROJESİ\HASTANE PROJESİ\obj\Debug\HASTANE_PROJESİ.DoktorBilgiDuzenle.resources
+C:\Users\Emrullah\Desktop\HASTANE PROJESİ\HASTANE PROJESİ\obj\Debug\HASTANE_PROJESİ.DoktorPaneli.resources
+C:\Users\Emrullah\Desktop\HASTANE PROJESİ\HASTANE PROJESİ\obj\Debug\HASTANE_PROJESİ.Duyurular.resources
+C:\Users\Emrullah\Desktop\HASTANE PROJESİ\HASTANE PROJESİ\obj\Debug\HASTANE_PROJESİ.Polikinlik.resources
+C:\Users\Emrullah\Desktop\HASTANE PROJESİ\HASTANE PROJESİ\obj\Debug\HASTANE_PROJESİ.RandevuListesi.resources
+C:\Users\Emrullah\Desktop\HASTANE PROJESİ\HASTANE PROJESİ\obj\Debug\HASTANE_PROJESİ.Sekreter.resources
+C:\Users\Emrullah\Desktop\HASTANE PROJESİ\HASTANE PROJESİ\obj\Debug\HASTANE_PROJESİ.SekreterDetay.resources
+C:\Users\Emrullah\Desktop\HASTANE PROJESİ\HASTANE PROJESİ\obj\Debug\HASTANE_PROJESİ.HastaKayıt.resources
+C:\Users\Emrullah\Desktop\HASTANE PROJESİ\HASTANE PROJESİ\obj\Debug\HASTANE PROJESİ.csprojAssemblyReference.cache
+C:\Users\Emrullah\Desktop\HASTANE PROJESİ\HASTANE PROJESİ\obj\Debug\HASTANE PROJESİ.csproj.CoreCompileInputs.cache
